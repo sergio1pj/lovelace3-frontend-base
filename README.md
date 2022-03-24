@@ -1,1 +1,1 @@
-# lovelace3-frontend-base
+# Atividade sobre async e await (API Rick and Morty)
